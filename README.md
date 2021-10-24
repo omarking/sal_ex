@@ -1,1 +1,18 @@
-# examen_salinas
+Minimum SDK 16
+100% Kotlin based
+MVVM Architecture
+Architecture Components (Lifecycle, LiveData, ViewModel, Room Persistence)
+DataBinding
+Material Design & Animations
+The Movie DB API
+Dagger2 for dependency injection
+Retrofit2 & Gson for constructing the REST API
+OkHttp3 for implementing interceptor, logging and mocking web server
+Glide for loading images
+BaseRecyclerViewAdapter for implementing adapters and viewHolders
+WhatIf - checking nullable object and empty collections more fluently
+Mockito-kotlin for Junit mock test
+Timber for logging
+Stetho for debugging persistence data & network packets
+Ripple animation, Shared element transition
+Custom Views ExpandableTextView
